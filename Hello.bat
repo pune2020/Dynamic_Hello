@@ -1,0 +1,1 @@
+echo "My World, Time:%time%, Date: %date%"
